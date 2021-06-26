@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 15px 15px 30px 15px;
+
+    &__title{
+        font-size: 36px;
+        color: #000;
+        text-transform: uppercase;
+    }
+}
